@@ -1,6 +1,6 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
+    "Hello, it is Zeeshan Ahmad here",
+    `Experienced mobile app developer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions`,
     `Eager to apply my technical expertise and in-depth
     product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
     "Thanks for taking the time to learn a little about me!",
@@ -243,16 +243,12 @@ export const footer = [
         data: [
             {
                 text: "Stackoverflow",
-                link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+                link: "https://stackoverflow.com/users/10961649/zeeshan-ahmad",
             },
             {
                 text: "GitHub",
-                link: "https://github.com/vinaysomawat",
-            },
-            {
-                text: "LeetCode",
-                link: "https://leetcode.com/somawatvinay/",
-            },
+                link: "https://github.com/zeeshanahmad0201",
+            }
         ],
     },
     {
@@ -265,11 +261,7 @@ export const footer = [
             {
                 text: "Print this page",
                 func: "window.print()",
-            },
-            {
-                text: "Clone this page",
-                link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-            },
+            }
         ],
     },
     {
@@ -277,7 +269,7 @@ export const footer = [
         data: [
             {
                 text: "Linkedin",
-                link: "https://www.linkedin.com/in/vinaysomawat/",
+                link: "https://www.linkedin.com/in/xeeshan-ahmad/",
             },
             {
                 text: "Twitter",
@@ -292,15 +284,13 @@ export const footer = [
     {
         label: "copyright-text",
         data: [
-            "Made with &hearts; by Vinay Somawat.",
-            "&copy; No Copyrights. Feel free to use this template.",
+            "Made with &hearts; by Zeeshan Ahmad"
         ],
     },
 ];
 
-const gitUserName = "vinaysomawat";
-const mediumUserName = "vinaysomawat";
+const gitUserName = "zeeshanahmad0201";
 
 export const URLs = {
-    mediumURL: `https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@${mediumUserName}`,
+    
 };
